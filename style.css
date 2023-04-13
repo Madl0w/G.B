@@ -1,0 +1,14 @@
+.HORTA-imagem{
+    background-color: brown;
+    color:azure;
+    display: flex;
+    justify-content: space-around;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.HORTA-imagem{
+    width: 10%;
+    height: 10%;
+}
