@@ -1,14 +1,21 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
 .HORTA-imagem{
     background-color: brown;
     color:azure;
     display: flex;
     justify-content: space-around;
-}
-*{
-    margin: 0;
-    padding: 0;
+    padding: 24px;
+    font-size: 24px;
 }
 .HORTA-imagem{
-    width: 10%;
-    height: 10%;
+    width: 400%;
+    height: 400%;
 }
+.HORTA-item {
+   background-image: linear-gradient(#1c3677,#6d53af)
+   color: white;
+   font-size: 21px;
